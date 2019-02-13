@@ -1,0 +1,4 @@
+  PID TTY          TIME CMD
+ 3213 tty1     00:00:00 bash
+ 3357 tty1     00:00:00 python3
+ 3569 tty1     00:00:00 ps
